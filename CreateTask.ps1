@@ -1,4 +1,4 @@
-$file = ".\UpdateHelp"
+$file = "$psscriptroot\UpdateHelp"
 $minutes = 1
 $TaskName = "UpdateHelpCreateTask"
 
